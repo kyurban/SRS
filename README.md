@@ -1,6 +1,6 @@
 # SRS Document for Cafeteria Ordering System
 
-In collaboration with my peers, we prepared a Software Requirements Specification (SRS) document for my graduate course <strong>Software Systems, Standards, and Requirements<strong>. This document provides an in-depth analysis of the requirements for the “Cafeteria Ordering System."
+In collaboration with my peers, we prepared a Software Requirements Specification (SRS) document for my graduate course <strong>Software Systems, Standards, and Requirements</strong>. This document provides an in-depth analysis of the requirements for the “Cafeteria Ordering System."
 
 Document Purpose:
 
