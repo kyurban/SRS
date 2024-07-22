@@ -4,7 +4,7 @@ In collaboration with my peers, we prepared a Software Requirements Specificatio
 
 Document Purpose:
 
-The purpose of this SRS document is to outline the requirements for the development of the “Cafeteria Ordering System.” It details the system's objectives, constraints, and interactions with external systems. This document aims to provide a clear understanding of the system requirements for stakeholders and to obtain their approval.
+The purpose of this SRS document was to detail the system's objectives, constraints, and interactions with external systems. This document aims to provide a clear understanding of the system requirements for stakeholders and to obtain their approval.
 
 System Overview:
 
